@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5be29bc8-7bcb-4a7b-b90d-813ea4a273a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/Driver/MainDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Driver/MainDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/MainPageAfterLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/MainPageAfterLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/MainPageAfterLoginLocators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/MainPageAfterLoginLocators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/MainPageBeforeLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/MainPageBeforeLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Suites/FirstSuite/SuperTest.java" beforeDir="false" />
-    </list>
+    <list default="true" id="5be29bc8-7bcb-4a7b-b90d-813ea4a273a4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
