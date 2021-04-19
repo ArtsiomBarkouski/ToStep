@@ -7,8 +7,7 @@ Includes simple login test, registration test, add goods to cart and make order 
 Latest version
 -------------
 
-This is single project. Latest version  can be found at https://github.com/ArtsiomBarkouski/ToStep
-
+This is single project. Latest version  can be found at https://github.com/ArtsiomBarkouski/ToStep/tree/master
 
 DOCUMENTATION
 -------------
