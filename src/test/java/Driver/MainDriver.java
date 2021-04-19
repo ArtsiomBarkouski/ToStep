@@ -11,11 +11,7 @@ import java.util.concurrent.TimeUnit;
 
 public class MainDriver {
     private static WebDriver driver;
-<<<<<<< HEAD
-    private final static Logger LOG = LogManager.getLogger("system");
-=======
     public final static Logger LOG = LogManager.getLogger("system");
->>>>>>> 1e231fb3f920456822ed46377f3765e666a4b02a
 
     private MainDriver() {
     }

@@ -22,8 +22,5 @@ public class MainPageBeforeLogin extends BasePage {
         typePassword(password);
         loginButtonCLick();
     }
-  //  public static boolean logInSucsessful() {
-   //     "/html/body/header/div[1]/div/div/div/div[2]/div[2]/div[2]/a/span"
- //  }
 
 }
