@@ -7,6 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="FirstAutomatization" />
+<<<<<<< HEAD
+=======
+        <module name="testcase-master" />
+>>>>>>> 1e231fb3f920456822ed46377f3765e666a4b02a
       </profile>
     </annotationProcessing>
   </component>

@@ -4,6 +4,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1e231fb3f920456822ed46377f3765e666a4b02a
     <groupId>org.Barkouski</groupId>
     <artifactId>FirstAutomaticTest</artifactId>
     <version>0.0.1</version>
@@ -37,4 +41,9 @@
         <maven.compiler.target>15</maven.compiler.target>
     </properties>
 
+<<<<<<< HEAD
 </project>
+=======
+</project>
+
+>>>>>>> 1e231fb3f920456822ed46377f3765e666a4b02a
